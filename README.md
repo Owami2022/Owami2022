@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Owami2022
-- 👀 I’m A Final Year Software Engineering Student
-- 🌱 I’m currently learning ASP.NET MVC
+- 👀 I’m A Software Engineering Graduate
+- 🌱  ASP.NET MVC
 
 
 
